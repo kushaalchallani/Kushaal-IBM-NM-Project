@@ -105,3 +105,5 @@ Recommendations for future improvements, including additional symptoms and enhan
 Clear guidelines for future upgrades and maintenance.
 
 ---
+#Output
+![Screenshot 2025-05-03 222251](https://github.com/user-attachments/assets/ce0257a6-1ce9-45dc-ab9d-e610621a9533)
